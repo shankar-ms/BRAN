@@ -9,6 +9,8 @@
 
 A Facial recognition based identification & authentication system at [KI labs](https://ki-labs.com/).
 
+The **BRAN** [medium article](https://medium.com/ki-labs-engineering/bran-a-facial-recognition-buddy-at-our-office-entrance-b7e43815ad3d) contains more information about this project.
+
 ![gif](assets/bran.gif)
 
 ## Index
